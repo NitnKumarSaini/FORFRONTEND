@@ -1,0 +1,100 @@
+ [
+    {
+        "name": "vivo 8 pro",
+        "model": "563432",
+        "image": "https://th.bing.com/th/id/R.cd5163cbfa7414bd843a7ad488ead97f?rik=cwCIWskb7qyWtw&riu=http%3a%2f%2fvivomobile.com.kh%2fwp-content%2fuploads%2f2017%2f06%2fPhone1.png&ehk=A%2bXXH5HpG0Vr17qNXpENCaMKmWee%2fojbqvaKlra2LGA%3d&risl=&pid=ImgRaw&r=0",
+        "price": "14999Rs"
+    },
+    {
+        "name": "Redmi",
+        "model": "569434",
+        "image": "https://th.bing.com/th/id/OIP.9P2UWZYbhls8xqVFDbGvDwHaKX?pid=ImgDet&rs=1",
+        "price": "16999Rs" 
+    },
+    {
+        "name": "Nokia 7.2",
+        "model": "563432",
+        "image": "https://th.bing.com/th/id/OIP.S3zEoZOA3aBQAFJse5R8oAHaJN?pid=ImgDet&rs=1",
+        "price": "17999Rs"
+    },
+    {
+        "name": "Samsaung",
+        "model": "563432",
+        "image": "https://th.bing.com/th/id/OIP.DmwZM_eb6yoS2CEWf0H-4AHaHa?pid=ImgDet&rs=1",
+        "price": "19999Rs"
+    },
+    {
+        "name": "Realme",
+        "model": "563432",
+        "image": "https://images.fonearena.com/blog/wp-content/uploads/2019/05/realme-X-1012x1024.jpg",
+        "price": "19999Rs"
+    }
+    ,
+    {
+        "name": "Samsaung",
+        "model": "563432",
+        "image": "https://th.bing.com/th/id/OIP.DmwZM_eb6yoS2CEWf0H-4AHaHa?pid=ImgDet&rs=1",
+        "price": "19999Rs"
+    },
+    
+    {
+        "name": "Samsaung",
+        "model": "563432",
+        "image": "https://th.bing.com/th/id/OIP.DmwZM_eb6yoS2CEWf0H-4AHaHa?pid=ImgDet&rs=1",
+        "price": "19999Rs"
+    }
+    ,
+    {
+        "name": "Samsaung",
+        "model": "563432",
+        "image": "https://th.bing.com/th/id/OIP.DmwZM_eb6yoS2CEWf0H-4AHaHa?pid=ImgDet&rs=1",
+        "price": "19999Rs"
+    }
+    ,
+    {
+        "name": "Samsaung",
+        "model": "563432",
+        "image": "https://th.bing.com/th/id/OIP.DmwZM_eb6yoS2CEWf0H-4AHaHa?pid=ImgDet&rs=1",
+        "price": "19999Rs"
+    }
+    ,
+    {
+        "name": "Samsaung",
+        "model": "563432",
+        "image": "https://th.bing.com/th/id/OIP.DmwZM_eb6yoS2CEWf0H-4AHaHa?pid=ImgDet&rs=1",
+        "price": "19999Rs"
+    }
+    ,
+    {
+        "name": "Samsaung",
+        "model": "563432",
+        "image": "https://th.bing.com/th/id/OIP.DmwZM_eb6yoS2CEWf0H-4AHaHa?pid=ImgDet&rs=1",
+        "price": "19999Rs"
+    }
+    ,
+    {
+        "name": "Samsaung",
+        "model": "563432",
+        "image": "https://th.bing.com/th/id/OIP.DmwZM_eb6yoS2CEWf0H-4AHaHa?pid=ImgDet&rs=1",
+        "price": "19999Rs"
+    },
+    {
+        "name": "vivo 8 pro",
+        "model": "563432",
+        "image": "https://th.bing.com/th/id/R.cd5163cbfa7414bd843a7ad488ead97f?rik=cwCIWskb7qyWtw&riu=http%3a%2f%2fvivomobile.com.kh%2fwp-content%2fuploads%2f2017%2f06%2fPhone1.png&ehk=A%2bXXH5HpG0Vr17qNXpENCaMKmWee%2fojbqvaKlra2LGA%3d&risl=&pid=ImgRaw&r=0",
+        "price": "14999Rs"
+    },
+    {
+        "name": "Redmi",
+        "model": "569434",
+        "image": "https://th.bing.com/th/id/OIP.9P2UWZYbhls8xqVFDbGvDwHaKX?pid=ImgDet&rs=1",
+        "price": "16999Rs" 
+    },
+    {
+        "name": "Nokia 7.2",
+        "model": "563432",
+        "image": "https://th.bing.com/th/id/OIP.S3zEoZOA3aBQAFJse5R8oAHaJN?pid=ImgDet&rs=1",
+        "price": "17999Rs"
+    }
+    
+]
